@@ -16,6 +16,7 @@ table, tr, td {
   padding: 10px; 
   
 } 
+
 table {
   width: 75%; 
 }
@@ -34,9 +35,10 @@ h2 {
   background-color: antiquewhite; 
   border: 5px black dashed; 
   font-size: 100px; 
+}
   
-  img: hover {
-    image: gold dotted 10px; 
+  img:hover {
+    border: gold dotted 10px; 
    }
   
 
